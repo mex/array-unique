@@ -1,0 +1,12 @@
+{
+  "name": "array-unique",
+  "version": "0.0.1",
+  "scripts": {
+	  "start": "coffee index.coffee"
+  },
+  "dependencies": {
+    "lodash": "~2.3.0",
+    "underscore": "~1.5.2"
+  },
+  "devDependencies": {}
+}
